@@ -37,11 +37,11 @@ An explanation of these variables can be found below
 
 Other non-secret variables to consider are:
 
-| Variable   | Beep                                                                          |
+| Variable   | Usage                                                                         |
 | ---------- | ----------------------------------------------------------------------------- |
 | `BEEP`     | When set to true the a beep will be played upon recognising a valid IR signal |
-| `RECV_PIN` | Pin used for the IR receiver                                                  |
-| `BUZZ_PIN` | Pin used for the buzzer                                                       |
+| `RECV_PIN` | GPIO pin used for the IR receiver                                             |
+| `BUZZ_PIN` | GPIO pin used for the buzzer                                                  |
 
 ## Todo
 
